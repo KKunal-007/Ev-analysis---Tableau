@@ -41,8 +41,8 @@ Connects to an `Electric_Vehicle_Population_Data.xlsx` workbook via an Excel con
 
 ## 📸 Preview
 
-<!-- Add a screenshot here, e.g.: -->
-<!-- ![Dashboard preview](screenshots/dashboard.png) -->
+<img width="1656" height="841" alt="Screenshot 2026-09-14 081108" src="https://github.com/user-attachments/assets/18b1b1e2-e472-49d0-9a0b-33ad38833542" />
+
 
 ## 👤 Author
 
